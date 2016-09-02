@@ -34,6 +34,6 @@ If you find ObjectNet3D useful in your research, please consider citing:
 
 3. draw_cad* displays the 3D CAD models we collected from [3D Warehouse](https://3dwarehouse.sketchup.com) in our annotation process.
 
-4. show_pose_annotations.m displays the overlays of 3D shapes onto images according to our annotations.
+4. show_pose_annotations.m displays the overlays of 3D shapes onto images according to our annotations. Check the code of this function to understand the annotation format of ObjectNet3D.
 
 5. show_shapenet_annotations.m displays the retrieved 3D shapes from ShapeNetCore for objects in 42 categories.
