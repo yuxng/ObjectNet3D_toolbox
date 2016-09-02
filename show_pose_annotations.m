@@ -10,7 +10,7 @@ function show_pose_annotations
 opt = globals();
 
 % save the images or not
-is_save = 1;
+is_save = 0;
 if is_save
     out_dir = 'Images_gt';
     if exist(out_dir, 'dir') == 0
