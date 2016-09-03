@@ -1,3 +1,9 @@
+% --------------------------------------------------------
+% ObjectNet3D
+% Copyright (c) 2016 CVGL Stanford University
+% Licensed under The MIT License [see LICENSE for details]
+% Written by Yu Xiang
+% --------------------------------------------------------
 function opt = globals()
 
 opt.root = '/var/Projects/ObjectNet3D';
