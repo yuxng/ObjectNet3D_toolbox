@@ -37,3 +37,5 @@ If you find ObjectNet3D useful in your research, please consider citing:
 4. show_pose_annotations.m displays the overlays of 3D shapes onto images according to our annotations. Check the code of this function to understand the annotation format of ObjectNet3D.
 
 5. show_shapenet_annotations.m displays the retrieved 3D shapes from ShapeNetCore for objects in 42 categories.
+
+6. VOCevaldetview_validation.m is the evaluation code for detection and pose estimation on the validation set.
